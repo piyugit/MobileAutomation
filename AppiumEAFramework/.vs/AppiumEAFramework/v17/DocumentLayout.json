@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\appiumeaframework\\appiumeaframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|solutionrelative:appiumeaframework\\appiumeaframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\eamobileapplication\\pages\\splashpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|solutionrelative:eamobileapplication\\pages\\splashpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\eamobileapplication\\steps\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|solutionrelative:eamobileapplication\\steps\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\appiumeaframework\\base\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|solutionrelative:appiumeaframework\\base\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\eamobileapplication\\hooks\\testinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|solutionrelative:eamobileapplication\\hooks\\testinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\eamobileapplication\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|solutionrelative:eamobileapplication\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\eamobileapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|solutionrelative:eamobileapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\eamobileapplication\\eamobileapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|solutionrelative:eamobileapplication\\eamobileapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\eamobileapplication\\pages\\nativeapppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|solutionrelative:eamobileapplication\\pages\\nativeapppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\eamobileapplication\\steps\\nativeappsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|solutionrelative:eamobileapplication\\steps\\nativeappsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\appiumeaframework\\base\\pagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|solutionrelative:appiumeaframework\\base\\pagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\appiumeaframework\\base\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|solutionrelative:appiumeaframework\\base\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\appiumeaframework\\base\\basestep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|solutionrelative:appiumeaframework\\base\\basestep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\appiumeaframework\\base\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|solutionrelative:appiumeaframework\\base\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\appiumeaframework\\config\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|solutionrelative:appiumeaframework\\config\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\appiumeaframework\\config\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|solutionrelative:appiumeaframework\\config\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\eamobileapplication\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|solutionrelative:eamobileapplication\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Piyus\\.nuget\\packages\\reqnroll.nunit\\2.4.1\\build\\Reqnroll.NUnit.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\eamobileapplication\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}|EAMobileApplication\\EAMobileApplication.csproj|solutionrelative:eamobileapplication\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|c:\\projects\\appiumeaframework\\appiumeaframework\\appiumeaframework\\config\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C949C2A8-FF40-47B4-A95F-58B6AF139369}|AppiumEAFramework\\AppiumEAFramework.csproj|solutionrelative:appiumeaframework\\config\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginSteps.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Steps\\LoginSteps.cs",
+              "RelativeDocumentMoniker": "EAMobileApplication\\Steps\\LoginSteps.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Steps\\LoginSteps.cs",
+              "RelativeToolTip": "EAMobileApplication\\Steps\\LoginSteps.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wBYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:02:38.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.feature",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Features\\Login.feature",
+              "RelativeDocumentMoniker": "EAMobileApplication\\Features\\Login.feature",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Features\\Login.feature",
+              "RelativeToolTip": "EAMobileApplication\\Features\\Login.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-20T04:33:26.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriverFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Base\\DriverFactory.cs",
+              "RelativeDocumentMoniker": "AppiumEAFramework\\Base\\DriverFactory.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Base\\DriverFactory.cs",
+              "RelativeToolTip": "AppiumEAFramework\\Base\\DriverFactory.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIA8wDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:41:55.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SplashPage.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Pages\\SplashPage.cs",
+              "RelativeDocumentMoniker": "EAMobileApplication\\Pages\\SplashPage.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Pages\\SplashPage.cs",
+              "RelativeToolTip": "EAMobileApplication\\Pages\\SplashPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:02:24.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppiumEAFramework",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework.csproj",
+              "RelativeDocumentMoniker": "AppiumEAFramework\\AppiumEAFramework.csproj",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework.csproj",
+              "RelativeToolTip": "AppiumEAFramework\\AppiumEAFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T03:32:09.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NativeAppPage.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Pages\\NativeAppPage.cs",
+              "RelativeDocumentMoniker": "EAMobileApplication\\Pages\\NativeAppPage.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Pages\\NativeAppPage.cs",
+              "RelativeToolTip": "EAMobileApplication\\Pages\\NativeAppPage.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA6wCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:01:51.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "EAMobileApplication\\appsettings.json",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\appsettings.json",
+              "RelativeToolTip": "EAMobileApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T04:55:22.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestInitialize.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Hooks\\TestInitialize.cs",
+              "RelativeDocumentMoniker": "EAMobileApplication\\Hooks\\TestInitialize.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Hooks\\TestInitialize.cs",
+              "RelativeToolTip": "EAMobileApplication\\Hooks\\TestInitialize.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:01:04.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EAMobileApplication",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\EAMobileApplication.csproj",
+              "RelativeDocumentMoniker": "EAMobileApplication\\EAMobileApplication.csproj",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\EAMobileApplication.csproj",
+              "RelativeToolTip": "EAMobileApplication\\EAMobileApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T03:59:51.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NativeAppSteps.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Steps\\NativeAppSteps.cs",
+              "RelativeDocumentMoniker": "EAMobileApplication\\Steps\\NativeAppSteps.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Steps\\NativeAppSteps.cs",
+              "RelativeToolTip": "EAMobileApplication\\Steps\\NativeAppSteps.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:02:52.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PageFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Base\\PageFactory.cs",
+              "RelativeDocumentMoniker": "AppiumEAFramework\\Base\\PageFactory.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Base\\PageFactory.cs",
+              "RelativeToolTip": "AppiumEAFramework\\Base\\PageFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:46:59.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Base\\BasePage.cs",
+              "RelativeDocumentMoniker": "AppiumEAFramework\\Base\\BasePage.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Base\\BasePage.cs",
+              "RelativeToolTip": "AppiumEAFramework\\Base\\BasePage.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:35:29.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseStep.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Base\\BaseStep.cs",
+              "RelativeDocumentMoniker": "AppiumEAFramework\\Base\\BaseStep.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Base\\BaseStep.cs",
+              "RelativeToolTip": "AppiumEAFramework\\Base\\BaseStep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:46:55.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Base\\Base.cs",
+              "RelativeDocumentMoniker": "AppiumEAFramework\\Base\\Base.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Base\\Base.cs",
+              "RelativeToolTip": "AppiumEAFramework\\Base\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:46:21.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Config\\TestSettings.cs",
+              "RelativeDocumentMoniker": "AppiumEAFramework\\Config\\TestSettings.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Config\\TestSettings.cs",
+              "RelativeToolTip": "AppiumEAFramework\\Config\\TestSettings.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:47:10.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Config\\Settings.cs",
+              "RelativeDocumentMoniker": "AppiumEAFramework\\Config\\Settings.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Config\\Settings.cs",
+              "RelativeToolTip": "AppiumEAFramework\\Config\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:47:03.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "EAMobileApplication\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "EAMobileApplication\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:01:47.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Reqnroll.NUnit.targets",
+              "DocumentMoniker": "C:\\Users\\Piyus\\.nuget\\packages\\reqnroll.nunit\\2.4.1\\build\\Reqnroll.NUnit.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Piyus\\.nuget\\packages\\reqnroll.nunit\\2.4.1\\build\\Reqnroll.NUnit.targets",
+              "ToolTip": "C:\\Users\\Piyus\\.nuget\\packages\\reqnroll.nunit\\2.4.1\\build\\Reqnroll.NUnit.targets",
+              "RelativeToolTip": "..\\..\\..\\Users\\Piyus\\.nuget\\packages\\reqnroll.nunit\\2.4.1\\build\\Reqnroll.NUnit.targets",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-20T04:23:26.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "EAMobileApplication\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\EAMobileApplication\\Pages\\HomePage.cs",
+              "RelativeToolTip": "EAMobileApplication\\Pages\\HomePage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:01:36.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Config\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "AppiumEAFramework\\Config\\ConfigReader.cs",
+              "ToolTip": "C:\\Projects\\AppiumEAFramework\\AppiumEAFramework\\AppiumEAFramework\\Config\\ConfigReader.cs",
+              "RelativeToolTip": "AppiumEAFramework\\Config\\ConfigReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:47:15.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
